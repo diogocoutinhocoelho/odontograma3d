@@ -1,0 +1,17 @@
+{
+    "name": "Unity.Formats.USD.Tests.Editor",
+    "references": [
+        "Unity.Formats.USD.Runtime",
+        "Unity.Formats.USD.Editor"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "allowUnsafeCode": true,
+    "precompiledReferences": [
+        "USD.NET.dll"
+    ]
+}
